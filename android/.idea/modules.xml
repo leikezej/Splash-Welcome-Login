@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/splash_login_final.iml" filepath="$PROJECT_DIR$/.idea/modules/splash_login_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/splash_login_final.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/splash_login_final.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2005947292/splash_login_final.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2005947292/splash_login_final.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2035697332/splash_login_final.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2035697332/splash_login_final.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-749770557/splash_login_final.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-749770557/splash_login_final.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

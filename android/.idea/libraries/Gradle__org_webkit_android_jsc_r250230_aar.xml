@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webkit:android-jsc:r250230@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7873a5158addb5bf75ec8bc5226b9f2a/transformed/jetified-android-jsc-r250230/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a41bc9e3b4fd749f24bd514f5ce5dbb1/transformed/jetified-android-jsc-r250230/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a41bc9e3b4fd749f24bd514f5ce5dbb1/transformed/jetified-android-jsc-r250230/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a41bc9e3b4fd749f24bd514f5ce5dbb1/transformed/jetified-android-jsc-r250230/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
